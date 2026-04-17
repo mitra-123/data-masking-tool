@@ -1,0 +1,9 @@
+fields:
+  email:
+    strategy: fake_email
+  credit_card:
+    strategy: credit_card
+  name:
+    strategy: fake_name
+  phone:
+    strategy: fake_phone
