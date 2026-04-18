@@ -1,4 +1,3 @@
-````markdown
 # Data Masking Tool
 
 A configurable command-line tool for masking sensitive PII (Personally Identifiable Information) across CSV, JSON, and SQLite databases.
@@ -237,5 +236,3 @@ Fields masked:
   - name: 2 values masked
   - phone: 2 values masked
 ==========================
-```
-````
